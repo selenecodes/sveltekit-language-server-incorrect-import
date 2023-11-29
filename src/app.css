@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Remove default browser margin around the body. */
+html,
+body {
+  margin: 0;
+}
